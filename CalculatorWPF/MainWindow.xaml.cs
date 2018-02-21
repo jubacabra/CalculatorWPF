@@ -20,9 +20,14 @@ namespace CalculatorWPF
     /// </summary>
     public partial class MainWindow : Window
     {
+        string Resultat ;
+
         public MainWindow()
         {
             InitializeComponent();
+
         }
+
+       
     }
 }

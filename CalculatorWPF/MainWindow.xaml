@@ -28,22 +28,23 @@
         <Button Grid.Column="0" Grid.Row="2" x:Name="Button7" Content="7" FontSize="36"/>
         <Button Grid.Column="1" Grid.Row="2" x:Name="Button8" Content="8" FontSize="36"/>
         <Button Grid.Column="2" Grid.Row="2" x:Name="Button9" Content="9" FontSize="36"/>
-        <Button Grid.Column="3" Grid.Row="2" x:Name="ButtonDivide" Content="/" FontSize="36"/>
+        <Button Grid.Column="3" Grid.Row="1" x:Name="ButtonDivide" Content="/" FontSize="36"/>
         <Button Grid.Column="0" Grid.Row="3" x:Name="Button4" Content="4" FontSize="36"/>
         <Button Grid.Column="1" Grid.Row="3" x:Name="Button5" Content="5" FontSize="36"/>
         <Button Grid.Column="2" Grid.Row="3" x:Name="Button6" Content="6" FontSize="36"/>
-        <Button Grid.Column="3" Grid.Row="3" x:Name="ButtonMultiply" Content="x" FontSize="36"/>
+        <Button Grid.Column="3" Grid.Row="2" x:Name="ButtonMultiply" Content="x" FontSize="36"/>
         <Button Grid.Column="0" Grid.Row="4" x:Name="Button1" Content="1" FontSize="36"/>
         <Button Grid.Column="1" Grid.Row="4" x:Name="Button2" Content="2" FontSize="36"/>
         <Button Grid.Column="2" Grid.Row="4" x:Name="Button3" Content="3" FontSize="36"/>
-        <Button Grid.Column="4" Grid.Row="4" x:Name="ButtonMinus" Content="-" FontSize="36"/>
+        <Button Grid.Column="4" Grid.Row="3" x:Name="ButtonMinus" Content="-" FontSize="36"/>
         <Button Grid.Column="0" Grid.Row="5" Grid.ColumnSpan="2" x:Name="Button0" Content="0" FontSize="36"/>
         <Button Grid.Column="2" Grid.Row="5" x:Name="ButtComma" Content="," FontSize="36"/>
-        <Button Grid.Column="3" Grid.Row="5" x:Name="ButtonPlus" Content="+"  FontSize="36"/>
+        <Button Grid.Column="3" Grid.Row="4" x:Name="ButtonPlus" Content="+"  FontSize="36"/>
         <Button Grid.Column="0" Grid.Row="1" x:Name="ButtonCustom1" Content="?"  FontSize="36"/>
         <Button Grid.Column="1" Grid.Row="1" x:Name="ButtonCustom2" Content="?"  FontSize="36"/>
         <Button Grid.Column="2" Grid.Row="1" x:Name="ButtonCustom3" Content="?"  FontSize="36"/>
-        <Button Grid.Column="3" Grid.Row="1" x:Name="ButtonCustom4" Content="?"  FontSize="36"/>
+        <Button Grid.Column="3" Grid.Row="6" x:Name="ButtonEquals" Content="="  FontSize="36"/>
+        
 
     </Grid>
 </Window>
